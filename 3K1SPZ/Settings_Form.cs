@@ -12,7 +12,6 @@ namespace _3K1SPZ
 {
     public partial class Settings_Form : Form
     {
-        // private bool Vanish;
         public bool Vanish { get; set; }
         public bool InvertDirection { get; set; }
         public bool InvertColors { get; set; }
