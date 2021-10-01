@@ -1,5 +1,5 @@
 ﻿
-namespace _3K1SPZ
+namespace _3K1SPZT1
 {
     partial class Main_Form
     {
@@ -37,7 +37,7 @@ namespace _3K1SPZ
             // pictureBox
             // 
             this.pictureBox.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox.Image = global::_3K1SPZ.Properties.Resources.check;
+            this.pictureBox.Image = global::_3K1SPZT1.Properties.Resources.check;
             this.pictureBox.Location = new System.Drawing.Point(177, 97);
             this.pictureBox.Name = "pictureBox";
             this.pictureBox.Size = new System.Drawing.Size(185, 185);

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _3K1SPZ.Properties {
+namespace _3K1SPZT1.Properties {
     using System;
     
     

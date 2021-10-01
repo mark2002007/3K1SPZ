@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace _3K1SPZ
+namespace _3K1SPZT1
 {
     public partial class Main_Form : Form
     {

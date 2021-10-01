@@ -1,5 +1,5 @@
 ﻿
-namespace _3K1SPZ
+namespace _3K1SPZT1
 {
     partial class Settings_Form
     {

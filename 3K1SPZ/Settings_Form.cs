@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _3K1SPZ
+namespace _3K1SPZT1
 {
     public partial class Settings_Form : Form
     {
